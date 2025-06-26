@@ -66,3 +66,7 @@ To run this project locally with Docker & Airflow:
    docker build -t airport-dwh .
    docker run -p 8080:8080 airport-dwh
    ```
+
+---
+
+*Note: This README is structured based on the [awesome-readme-template](https://github.com/Louis3797/awesome-readme-template) template :)*
